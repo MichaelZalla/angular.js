@@ -300,7 +300,7 @@
  *     with the corresponding item in the collection by identity. Moving the same object would move
  *     the DOM element in the same way in the DOM.
  *     Note that the default id function does not support duplicate primitive values (`number`, `string`),
- *     but supports duplictae non-primitive values (`object`) that are *equal* in shape.
+ *     but supports duplicate non-primitive values (`object`) that are *equal* in shape.
  *
  *     *Custom Expression*: It is possible to use any AngularJS expression to compute the tracking
  *     id, for example with a function, or using a property on the collection items.
